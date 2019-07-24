@@ -1,0 +1,14 @@
+{
+  "name": "cryptochain",
+  "version": "0.0.1",
+  "description": "A cryptocurrency and blockchain built from scratch in JavaScript",
+  "private": true,
+  "main": "",
+  "scripts": {},
+  "author": "Brett Hartman <brehardev@gmail.com> (http://bretthartman.me)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brehar/cryptochain"
+  },
+  "license": "MIT"
+}
