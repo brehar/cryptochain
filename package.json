@@ -4,7 +4,9 @@
   "description": "A cryptocurrency and blockchain built from scratch in JavaScript",
   "private": true,
   "main": "",
-  "scripts": {},
+  "scripts": {
+    "test": "jest --watchAll"
+  },
   "author": "Brett Hartman <brehardev@gmail.com> (http://bretthartman.me)",
   "repository": {
     "type": "git",
